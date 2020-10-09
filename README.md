@@ -1,4 +1,10 @@
 # itunessearch
+以下を参考に作成
+propsや$emitを使ったサンプル
+https://www.monster-dive.com/blog/web_creative/20181019_001812.php
+
+以下を参考にVSCodeでDebugもできることを確認
+https://it-blue-collar-dairy.com/how-to-debug-vuejs-for-vscode/
 
 ## Project setup
 ```
